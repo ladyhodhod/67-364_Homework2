@@ -1,5 +1,3 @@
-# 67-364 Practical Data Science
-
 # HW2 - Pandas and Data Wrangling
 
 In this homework you will test your skills on using the `Pandas` library for a few basic Data Wrangling tasks.
