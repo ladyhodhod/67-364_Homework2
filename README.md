@@ -1,6 +1,7 @@
 # HW2 - Pandas and Data Wrangling
 
-In this homework you will test your skills on using the `Pandas` library for a few basic Data Wrangling tasks.
+The goal of this hoework is to test your skills on using the `Pandas` library for a few basic data wrangling tasks.
+
 The homework consists of `2` tasks, provided and described in the following notebooks:
 
     1.HW2_Task_A_Lego.ipynb
