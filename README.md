@@ -20,8 +20,9 @@ Keep in mind that writing the explanation can help you in two ways:
 
 ### Deliverables
 `HW2_Task_A_Lego.ipynb` and `HW2_Task_B_Drop_the_bike.ipynb` notebooks with disclosed output for each cell. 
+Both notebooks should be submitted through the course canvas page.
 
-#### Deadline: September 23, 11:59 PM
+#### Submission Deadline: September 23, 11:59 PM
 
 #### Bonus Points: Early submission
 If you submit the entire homework no later than 24 hours before the deadline, and the total score on the rest of this homework assignment is at least 10 points, you will receive 5 bonus point. The bonus point will be added to the total score of this homework assignment.
